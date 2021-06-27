@@ -1,0 +1,12 @@
+[package]
+name = "thrustengine"
+version = "0.1.0"
+authors = ["glcoder0 <glcoder@mail.com>"]
+edition = "2018"
+description = "a 3d graphics engine"
+
+#coming soon 
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
