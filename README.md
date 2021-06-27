@@ -1,8 +1,5 @@
 thrustengine placeholder repo
 graphics engine written in Rust.
 
-this engine is being developped for a personal project- if you are interested in these features and codebase, get in touch with requests
-
-
 ![screenshot](thrustengine_screenshot.png)
 https://vimeo.com/567738378
