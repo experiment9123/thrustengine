@@ -3,7 +3,11 @@ name = "thrustengine"
 version = "0.1.0"
 authors = ["glcoder0 <glcoder@mail.com>"]
 edition = "2018"
+license = "LGPL-2.1-only"
 description = "a 3d graphics engine"
+repository = "https://github.com/experiment9123/thrustengine"
+homepage = "https://github.com/experiment9123/thrustengine"
+keywords = ["gamedev", "graphics"]
 
 #coming soon 
 
